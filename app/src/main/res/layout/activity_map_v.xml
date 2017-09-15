@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.rocha.karla.everything.MapV">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="81dp"
+        android:background="@color/White">
+
+        <TableRow android:layout_height="64dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="@dimen/layout_padding"
+                android:textColor="@color/Black"
+                android:text="X:" />
+
+            <TextView
+                android:id="@+id/idXCoord"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="@dimen/layout_padding"
+                android:textColor="@color/Black"/>
+        </TableRow>
+
+        <TableRow android:layout_height="64dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="@dimen/layout_padding"
+                android:text="Y:"
+                android:textColor="@color/Black"/>
+
+            <TextView
+                android:id="@+id/idYCoord"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="@dimen/layout_padding"
+                android:textColor="@color/Black"/>
+        </TableRow>
+    </TableLayout>
+
+</RelativeLayout>
