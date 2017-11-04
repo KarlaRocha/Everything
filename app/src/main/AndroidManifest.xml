@@ -22,97 +22,99 @@
         </activity>
         <activity
             android:name=".RadioButton"
-            android:theme="@style/BaseTheme"/>
+            android:theme="@style/BaseTheme" />
         <activity
             android:name=".Checkbox"
-            android:theme="@style/BaseTheme"/>
+            android:theme="@style/BaseTheme" />
         <activity
             android:name=".Ratingbar"
-            android:theme="@style/BaseTheme"/>
+            android:theme="@style/BaseTheme" />
         <activity
             android:name=".Progress_bar"
-            android:theme="@style/BaseTheme"/>
+            android:theme="@style/BaseTheme" />
         <activity
             android:name=".Seek_bar"
-            android:theme="@style/BaseTheme"/>
+            android:theme="@style/BaseTheme" />
         <activity
             android:name=".SwitchExample"
-            android:theme="@style/BaseTheme"/>
+            android:theme="@style/BaseTheme" />
         <activity
             android:name=".ToggleBtn"
-            android:theme="@style/BaseTheme"/>
+            android:theme="@style/BaseTheme" />
         <activity
             android:name=".SpinnerExample"
-            android:theme="@style/BaseTheme"/>
+            android:theme="@style/BaseTheme" />
         <activity
             android:name=".AutoCom"
-            android:theme="@style/BaseTheme"/>
+            android:theme="@style/BaseTheme" />
         <activity
             android:name=".MultAutoComp"
-            android:theme="@style/BaseTheme"/>
+            android:theme="@style/BaseTheme" />
         <activity
             android:name=".Video"
-            android:theme="@style/BaseTheme"/>
+            android:theme="@style/BaseTheme" />
         <activity
             android:name=".TxtClock"
-            android:theme="@style/BaseTheme"/>
+            android:theme="@style/BaseTheme" />
         <activity
             android:name=".DtPicker"
-            android:theme="@style/BaseTheme"/>
+            android:theme="@style/BaseTheme" />
         <activity
             android:name=".TmPicker"
-            android:theme="@style/BaseTheme"/>
+            android:theme="@style/BaseTheme" />
         <activity
             android:name=".Chromo"
-            android:theme="@style/BaseTheme"/>
+            android:theme="@style/BaseTheme" />
         <activity
             android:name=".EmailExample"
-            android:theme="@style/BaseTheme"/>
+            android:theme="@style/BaseTheme" />
         <activity
             android:name=".Gmaps"
-            android:theme="@style/BaseTheme"/>
+            android:theme="@style/BaseTheme" />
         <activity
             android:name=".MapV"
-            android:theme="@style/BaseTheme"/>
+            android:theme="@style/BaseTheme" />
         <activity
             android:name=".SAR"
-            android:theme="@style/BaseTheme"/>
+            android:theme="@style/BaseTheme" />
         <activity
             android:name=".PhoneC"
-            android:theme="@style/BaseTheme"/>
+            android:theme="@style/BaseTheme" />
         <activity
             android:name=".PhoneD"
-            android:theme="@style/BaseTheme"/>
+            android:theme="@style/BaseTheme" />
         <activity
             android:name=".CameraExample"
-            android:theme="@style/BaseTheme"/>
+            android:theme="@style/BaseTheme" />
         <activity
             android:name=".FaceB"
-            android:theme="@style/BaseTheme"/>
+            android:theme="@style/BaseTheme" />
         <activity
             android:name=".Twit"
-            android:theme="@style/BaseTheme"/>
+            android:theme="@style/BaseTheme" />
         <activity
             android:name=".WhatA"
-            android:theme="@style/BaseTheme"/>
+            android:theme="@style/BaseTheme" />
         <activity
             android:name=".GoogleP"
-            android:theme="@style/BaseTheme"/>
+            android:theme="@style/BaseTheme" />
         <activity
             android:name=".CToast"
-            android:theme="@style/BaseTheme"/>
+            android:theme="@style/BaseTheme" />
         <activity
             android:name=".CListView"
-            android:theme="@style/BaseTheme"/>
+            android:theme="@style/BaseTheme" />
         <activity
             android:name=".ExpListView"
-            android:theme="@style/BaseTheme"/>
+            android:theme="@style/BaseTheme" />
         <activity
             android:name=".GView"
-            android:theme="@style/BaseTheme"/>
+            android:theme="@style/BaseTheme" />
         <activity
             android:name=".CanvasDraw"
-            android:theme="@style/BaseTheme"/>
+            android:theme="@style/BaseTheme" />
+        <activity android:name=".DialogFrag" />
+        <activity android:name=".TxtSwitcher"></activity>
     </application>
 
 </manifest>

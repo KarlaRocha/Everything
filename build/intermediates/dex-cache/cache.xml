@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/karla/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/karla/AndroidStudioProjects/Everything-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_70d888f85455c72ec1b4d515a44a481258b2da26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/karla/.android/build-cache/852f6477dfb44dd3651f52aa80beed116e6713b1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/karla/AndroidStudioProjects/Everything-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_806fbed27ebe260dd3ae8ae2894f16bf30bdd8dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/karla/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/karla/AndroidStudioProjects/Everything-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_8bbd100c2970e1bab9d81713b3e10a82247ba684/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/karla/AndroidStudioProjects/Everything-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/karla/AndroidStudioProjects/Everything-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_34ba667a9f851cf064f8dcdd4d1d9f073dbcfa1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/karla/.android/build-cache/f200dd1c1be137c671d753084e18076bd9d573c9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/karla/AndroidStudioProjects/Everything-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b97b64bb15a4e381a41c0954cf9c3c788cb0ae33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/karla/.android/build-cache/8098fd33fde6bc14d29759b0e86278da4d0c5f6b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/karla/AndroidStudioProjects/Everything-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7c37cddbac16185ef5cd37f8b31c61824689ac52/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/karla/.android/build-cache/60930abf90703d56d5f43f834b29cc6b93f8eb6e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/karla/AndroidStudioProjects/Everything-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_be0bd74c2cfe4896745c2f2d1ef1b112d78922ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/karla/.android/build-cache/46f78fc05bcd65927a3f9ada3e1864fed9035d52/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/karla/AndroidStudioProjects/Everything-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5fb57719f6934378bbc7ad4024942060b77fb411/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/karla/.android/build-cache/5d88766f58ce7c2653c7854cfef0e9c8792e960f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/karla/AndroidStudioProjects/Everything-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d47eac3e2c70895253a7daed80cc65d3b9cfec7e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/karla/.android/build-cache/3ed57bfa33379cd2c50485c366f7e2f859d3f7a6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/karla/AndroidStudioProjects/Everything-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_33a72856c2caceba29e053a894748eceb67d4251/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/karla/AndroidStudioProjects/Everything-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="91f1fe7743bba3b35cb6d69e5aeeb7eaa3462883">
+        <dex dex="/home/karla/AndroidStudioProjects/Everything-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_fb66b7e42ea4bd2cb1535b3ddfea46798170fcea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/karla/.android/build-cache/83855787880841bacbcc7dee531396f9b790588e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/karla/AndroidStudioProjects/Everything-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_74d6c47db51bb02291a0113d8cffb2b5474c92fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/karla/.android/build-cache/5721a4e26a94fa10ebf5ecd63d9b8d4b340c1318/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/karla/AndroidStudioProjects/Everything-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_43cd5d558e5702d5e49d11290cf519457de294ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/karla/.android/build-cache/f2beafcce8a8e4fb5a5be460c829785b6a29c7c7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/karla/AndroidStudioProjects/Everything-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1ebcb6574961e66e634c17846fdcb9ba5d3350af/classes.dex" />
+    </item>
+
+</items>

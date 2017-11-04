@@ -64,7 +64,8 @@ public class AppData{
                 CListView.class,
                 ExpListView.class,
                 GView.class,                     // 30
-                CanvasDraw.class
+                CanvasDraw.class,
+                DialogFrag.class
         };
         public static String [] MAIN_TITLES = {
                 "Radio Button",                 // 1
@@ -97,7 +98,9 @@ public class AppData{
                 "Custom ListView",
                 "Expandable ListView",
                 "GridView",                         // 30
-                "Canvas Drawing"
+                "Canvas Drawing",
+                "Dialog Fragment",
+                "Text Switcher",
                 //"WebView",
                 //"SearchView",
                 //"Context Menu",
@@ -108,7 +111,6 @@ public class AppData{
                 //"Fragment and Activity Lifecycle Combined",
                 //"InterFragment Communication",
                 //"List Fragment",
-                //"Dialog Fragment",
                 //"Service Lifecycle",
                 //"Service Example",
                 //"Phone Details",

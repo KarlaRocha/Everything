@@ -26,10 +26,10 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        Hashtable<String, Class> activities = new Hashtable<>();
+        final Hashtable<String, Class> activities = new Hashtable<>();
 
         for (int i = 0; i < AppData.DataList.MAIN_TITLES.length; i++){
-            activities.put(AppData.DataList.MOVIE_TITLES[i], AppData.DataList.MAIN_ACTIVITIES[i]);
+            activities.put(AppData.DataList.MAIN_TITLES[i], AppData.DataList.MAIN_ACTIVITIES[i]);
         }
 
         ListView listView = (ListView)findViewById(R.id.main_listview);
@@ -41,15 +41,15 @@ public class MainActivity extends AppCompatActivity {
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-
-                TextView text = (TextView)findViewById(R.id.text1);
+                Object txtObject = parent.getItemAtPosition(position);
+                Class classItem = activities.get(txtObject.toString());
 
                 try{
-                    startActivity(new Intent(MainActivity.this,
-                            );
+                    startActivity(new Intent(MainActivity.this, classItem));
                 }catch (Exception e){
                     Toast.makeText(getApplicationContext(), "Not available",
                             Toast.LENGTH_LONG).show();
+                    e.printStackTrace();
                 }
             }
         });
